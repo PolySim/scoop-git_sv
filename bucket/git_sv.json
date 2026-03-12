@@ -1,12 +1,12 @@
 {
-  "version": "0.3.22",
+  "version": "0.3.23",
   "description": "Visualize git graph in your terminal with a beautiful TUI",
   "homepage": "https://github.com/PolySim/git_sv",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/PolySim/git_sv/releases/download/v0.3.22/git_sv-v0.3.22-x86_64-pc-windows-msvc.zip",
-      "hash": "4e01c4bf6cd25855d21878d77bafbf3ac7bf87e9077735db9453de25821e1a74"
+      "url": "https://github.com/PolySim/git_sv/releases/download/v0.3.23/git_sv-v0.3.23-x86_64-pc-windows-msvc.zip",
+      "hash": "efff0f3a5e0968174a70859bb067f2272bf87f2ec1cff592275dbbba9da06bb2"
     }
   },
   "bin": "git_sv.exe",
